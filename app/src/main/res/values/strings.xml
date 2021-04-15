@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCounterKotlin</string>
+    <string name="you_have_pushed_the_button_this_many_times">You have push the button this many times</string>
+</resources>
